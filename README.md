@@ -1,5 +1,5 @@
 # Tic-tac-toe
-Command line tic-tac-toe
+Command line tic-tac-toe, one player vs smart A.I.
 ## Example Game
 Run: `python tic-tac-toe.py`<br>
 ```
